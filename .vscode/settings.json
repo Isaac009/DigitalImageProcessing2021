@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/isaac/opencv/bin/python3"
+    "python.pythonPath": "/home/isaac/anaconda3/envs/spinningup/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
